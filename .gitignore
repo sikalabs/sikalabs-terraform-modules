@@ -1,0 +1,14 @@
+# Mac
+.DS_Store
+
+# Editor
+.vscode
+
+# Terraform
+.state
+.terraform
+.terraform.tfstate.lock.info
+*.tfstate
+*.tfvars
+*.backup
+*.log
